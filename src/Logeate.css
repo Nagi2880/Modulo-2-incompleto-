@@ -1,0 +1,171 @@
+.Login{
+    position: absolute;
+    width: 67%;
+    height: 83%;
+    top: 12.9%;
+    left: 16.7%;
+
+    background-color: white;
+}
+
+#errorlogo{
+    position: absolute;
+    left: 42.9%;
+    top: 3%;
+    height: 12%;
+    width: 10.8%;
+}
+h3{
+    position: absolute;
+    left:42%;
+    top: 16%;
+    height: 4%;
+    width: 12.5%;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 30px;
+
+    
+    letter-spacing: 0.15px;
+    
+    color: #333333;
+    
+}
+
+#CorreoElectronico{
+    position: absolute;
+    left: 17.8%;
+    top: 26.4%;
+    height: 8%;
+    width: 60.2%;
+    
+
+    border: 1px solid #E5E5E5;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+#CorreoElectronico::placeholder{
+    color:  #C4C4C4;
+}
+
+
+#Contraseña{
+    position: absolute;
+    left: 17.8%;
+    top: 40.6%;
+    height: 8%;
+    width: 60.2%;
+    
+    border: 1px solid #E5E5E5;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+#Contraseña::placeholder{
+    color:  #C4C4C4;
+}
+
+
+
+#Start{
+    position: absolute;
+    left: 17.8%;
+    top: 51.15%;
+    height: 7.6%;
+    width: 60.2%;
+
+    background: #F50057;
+
+    box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.12), 0px 2px 2px rgba(0, 0, 0, 0.24);
+    border-radius: 4px;
+
+    letter-spacing: 1.25px;
+    text-transform: uppercase;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 16px;
+    color: white;
+    }
+
+
+
+
+#Olvidado{
+    position: absolute;
+    left: 17.8%;
+    top: 66%;
+    height: 9%;
+    width: 60.2%;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 12px;
+
+ 
+    letter-spacing: 1.25px;
+    text-transform: uppercase;
+
+    background-color: white;
+    color: #009688;
+
+    border-bottom: white;
+    border-color: white;
+
+
+
+}
+
+#LineaIngresar{
+    position: absolute;
+    top: 75%;
+    left: 17.8%;
+    width: 60.2%;
+    height: 1.05px;
+
+}
+#Cuenta{
+    position: absolute;
+    top: 81%;
+    left: 19.5%;
+    height: 2%;
+    width: 56.9%;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 16px;
+    letter-spacing: 1.25px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #C4C4C4;
+}
+#Registrate{
+    position: absolute;
+    top: 87%;
+    left: 30.4%;
+    height: 5.9%;
+    width: 35.6%;
+
+    background: #FFFFFF;
+    border: 1px solid #009688;
+    border-radius: 4px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 16px;
+
+    text-align: center;
+    letter-spacing: 1.25px;
+    text-transform: uppercase;
+
+    color: #009688;
+}

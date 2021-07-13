@@ -1,0 +1,112 @@
+#buscador{
+    position: absolute;
+    top: 112px;
+    left: 26.8%;
+    width: 633px;
+    height: 50px;
+
+    border: 1px solid #E5E5E5;
+}
+
+.Resultados{
+    position: absolute;
+    top: 20.1%;
+    left:5.1%;
+    height: 21.4%;
+    width: 90.4%;
+
+    background-color: white;
+
+    border: 1px solid #E5E5E5;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+
+.TuPlaylist {
+    position: absolute;
+    top:43.6%;
+    left:5.1%;
+    height: 52%;
+    width: 90.4%;
+
+    background-color: white;
+}
+
+
+#Resultados-texto{
+    position: absolute;
+    top: 6%;
+    left: 8%;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+
+
+    letter-spacing: 0.15px;
+    color: #009688;
+
+}
+
+.Tabla-Resultados{
+    position: absolute;
+    top: 30px;
+    left: 90px;
+    width: 1300px;
+    height: 100px;
+
+}
+
+#Linea-tabla{
+    position: absolute;
+    width: 1143px;
+    height: 1.04px;
+    top: 50%;
+    left: 0px;
+}
+
+
+td{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 30px;
+    letter-spacing: 0.15px;
+
+    color: rgba(0, 0, 0, 0.87);
+}
+
+.Tabla-Playlist{
+    position: absolute;
+    left: 60px;
+    top: 60px;
+    width: 1300px;
+    height: 100px;
+
+}
+
+#Linea-Playlist{
+    position: absolute;
+    width: 1143px;
+    height: 1.04px;
+    top: 15%;
+    left: 0%;
+}
+
+#TuPlaylist-texto{
+    position: absolute;
+    top: 3%;
+    left: 7.5%;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+
+
+    letter-spacing: 0.15px;
+    color: #009688;
+
+}
